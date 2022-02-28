@@ -14,6 +14,12 @@ Library _Convex Hull_.
 - Numpy
 - MatplotLib
 - scipy
+- pandas
+- sklearn
+
+```shell
+pip install numpy scipy matplotlib pandas sklearn
+```
 
 ### Installation
 
@@ -31,7 +37,7 @@ Library _Convex Hull_.
 
 ## Usage
 
-1. Run All ipynb
+1. Run All main.ipynb
 
 ## Author
 
